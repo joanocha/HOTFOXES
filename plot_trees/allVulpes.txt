@@ -1,0 +1,84 @@
+Red_fox_10185	North African Red fox	Oujda (Mo)	
+Red_fox_10608	North African Red fox	Tan-Tan (Mo)	
+Red_fox_1092	North African Red fox	Ouarzazate (Mo)	
+Red_fox_12146	North African Red fox	Tan-Tan (Mo)	
+Red_fox_12238	North African Red fox	Tan-Tan (Mo)	
+Red_fox_13451	North African Red fox	Ouarzazate (Mo)	
+Red_fox_1446	North African Red fox	Tant-Tan (Mo)	
+Red_fox_1515	North African Red fox	El Bayadh (Alg)	
+Red_fox_305	North African Red fox	Beja(Tu)	
+Red_fox_3642	North African Red fox	Errachidia (Mo)	
+Red_fox_3643	North African Red fox	Nador (Mo)	
+Red_fox_5701	North African Red fox	Oukaimeden (Mo)	
+Red_fox_5710	North African Red fox	Tan-Tan (Mo)	
+Red_fox_6588	North African Red fox	Agadir (Mo)	
+Red_fox_6589	North African Red fox	Agadir (Mo)	
+Red_fox_6820	North African Red fox	Jendouba (Tu)	
+Red_fox_6824	North African Red fox	Le Kef (Tu)	
+Red_fox_6891	North African Red fox	Oujda (Mo)	
+Red_fox_7024	North African Red fox	Errachidia (Mo)	
+Red_fox_707	North African Red fox	Oukaimeden (Mo)	
+Red_fox_8030	North African Red fox	Tata (Mo)	
+Red_fox_8079	North African Red fox	Tiznit (Mo)	
+Red_fox_8522	North African Red fox	Agadir (Mo)	
+Red_fox_9053	North African Red fox	Oujda (Mo)	
+Red_fox_9055	North African Red fox	Figuig (Mo)	
+Red_fox_VV01	North African Red fox	Assa (Mo)	
+Red_fox_VV03	North African Red fox	Rabat (Mo)	
+Red_fox_VV04	North African Red fox	Rabat (Mo)	
+Red_fox_VV05	North African Red fox	Casablanca (Mo)	
+Red_fox_VV12	North African Red fox	Laayoune-Boujdour (Mo)	
+Red_fox_10470	Middle Eastern Red fox	Hormozgan (Ir)	
+Red_fox_10476	Middle Eastern Red fox	Fars (Ir)	
+Red_fox_11464	Middle Eastern Red fox	Sanandaj-Kurdestan (Ir)	
+Red_fox_11466	Middle Eastern Red fox	Sistan-Baluchistan (Ir)	
+Red_fox_11469	Middle Eastern Red fox	Sistan-Baluchistan (Ir)	
+Red_fox_11470	Middle Eastern Red fox	Hormozgan (Ir)	
+Red_fox_2790	European Red fox	Murcia(Sp)	
+Red_fox_2794	European Red fox	Fthiotida(Gr)	
+Red_fox_5705	Middle Eastern Red fox	Sinai (Eg)	
+Red_fox_5706	Middle Eastern Red fox	Aragatsotn (Ar)	
+Red_fox_5627	Middle Eastern Red fox	Anatolia (Tk)	
+Red_fox_8047	Middle Eastern Red fox	Kerman (Ir)	
+Red_fox_8050	Middle Eastern Red fox	Baluchistan (Ir)	
+Red_fox_8645	Middle Eastern Red fox	Kerman (Ir)	
+Red_fox_8953	Middle Eastern Red fox	Qazvin (Ir)	
+Red_fox_VV07	European Red fox	Alto Minho (Pt)	
+Red_fox_VV10	European Red fox	Alto Minho (Pt)	
+Red_fox_VV11	European Red fox	Alto Minho (Pt)	
+Rueppells_fox_131	Rueppell's fox	Rueppell's fox	Trarza (Ma)
+Rueppells_fox_2782	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_3213	Rueppell's fox	Rueppell's fox	Tagant (Ma)
+Rueppells_fox_4964	Rueppell's fox	Rueppell's fox	Brakna (Ma)
+Rueppells_fox_542	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_5704	Rueppell's fox	Rueppell's fox	Western Desert (Eg)
+Rueppells_fox_6010	Rueppell's fox	Rueppell's fox	Tagant (Ma)
+Rueppells_fox_7367	Rueppell's fox	Rueppell's fox	Inchiri (Ma)
+Rueppells_fox_785	Rueppell's fox	Rueppell's fox	Atlantic Sahara (Mo)
+Rueppells_fox_7902	Rueppell's fox	Rueppell's fox	Brakna(Ma)
+Rueppells_fox_84	Rueppell's fox	Rueppell's fox	Assaba(Ma)
+Rueppells_fox_VR01	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR02	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR03	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR05	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR06	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR07	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR08	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR09	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR10	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR11	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR12	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR13	Rueppell's fox	Rueppell's fox	Western Sahara 
+Rueppells_fox_VR14	Rueppell's fox	Rueppell's fox	Western Sahara 
+Fennec_fox_VZ01	Fenenc fox	Fenenc fox	
+Fennec_fox_VZ02	Fenenc fox	Fenenc fox	
+Fennec_fox_VZ03	Fenenc fox	Fenenc fox	
+Fennec_fox_VZ05	Fenenc fox	Fenenc fox	
+Fennec_fox_VZ07	Fenenc fox	Fenenc fox	
+Pale_fox_1001	Pale fox	Pale fox	
+Pale_fox_10358	Pale fox	Pale fox	
+Pale_fox_3483	Pale fox	Pale fox	
+Pale_fox_468	Pale fox	Pale fox	
+Pale_fox_968	Pale fox	Pale fox	
+Arctic_fox	Arctic fox	Arctic fox	
+Dog_tibetan_mastiff	Dog (Tibetan Mastiff)	Dog (Tibetan Mastiff)	

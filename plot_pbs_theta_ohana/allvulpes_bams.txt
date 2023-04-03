@@ -1,0 +1,105 @@
+NA_5	Oujda (Mo)	North Africa	Red fox	10185
+NA21	Tan-Tan (Mo)	North Africa	Red fox	10608
+NA16	Ouarzazate (Mo)	North Africa	Red fox	1092
+NA22	Tan-Tan (Mo)	North Africa	Red fox	12146
+NA23	Tan-Tan (Mo)	North Africa	Red fox	12238
+NA17	Ouarzazate (Mo)	North Africa	Red fox	13451
+NA24	Tant-Tan (Mo)	North Africa	Red fox	1446
+NA_3	El Bayadh (Alg)	North Africa	Red fox	1515
+NA_0	Beja(Tu)	North Africa	Red fox	305
+NA13	Errachidia (Mo)	North Africa	Red fox	3642
+NA_4	Nador (Mo)	North Africa	Red fox	3643
+NA14	Oukaimeden (Mo)	North Africa	Red fox	5701
+NA25	Tan-Tan (Mo)	North Africa	Red fox	5710
+NA18	Agadir (Mo)	North Africa	Red fox	6588
+NA19	Agadir (Mo)	North Africa	Red fox	6589
+NA_1	Jendouba (Tu)	North Africa	Red fox	6820
+NA_2	Le Kef (Tu)	North Africa	Red fox	6824
+NA_6	Oujda (Mo)	North Africa	Red fox	6891
+NA12	Errachidia (Mo)	North Africa	Red fox	7024
+NA15	Oukaimeden (Mo)	North Africa	Red fox	707
+NA26	Tata (Mo)	North Africa	Red fox	8030
+NA27	Tiznit (Mo)	North Africa	Red fox	8079
+NA20	Agadir (Mo)	North Africa	Red fox	8522
+NA_7	Oujda (Mo)	North Africa	Red fox	9053
+NA_8	Figuig (Mo)	North Africa	Red fox	9055
+NA28	Assa (Mo)	North Africa	Red fox	VV01
+NA_9	Rabat (Mo)	North Africa	Red fox	VV03
+NA10	Rabat (Mo)	North Africa	Red fox	VV04
+NA11	Casablanca (Mo)	North Africa	Red fox	VV05
+NA29	Laayoune-Boujdour (Mo)	North Africa	Red fox	VV12
+ME_2	Hormozgan (Ir)	Middle East (Asia)	Red fox	10470
+ME_4	Fars (Ir)	Middle East (Asia)	Red fox	10476
+ME_5	Sanandaj-Kurdestan (Ir)	Middle East (Asia)	Red fox	11464
+ME_6	Sistan-Baluchistan (Ir)	Middle East (Asia)	Red fox	11466
+ME_7	Sistan-Baluchistan (Ir)	Middle East (Asia)	Red fox	11469
+ME_3	Hormozgan (Ir)	Middle East (Asia)	Red fox	11470
+EU1	Murcia(Sp)	Europe	Red fox	2790
+EU5	Fthiotida(Gr)	Europe	Red fox	2794
+ME12	Sinai (Eg)	Middle East (Asia)	Red fox	5705
+ME_1	Aragatsotn (Ar)	Middle East (Asia)	Red fox	5706
+ME_0	Anatolia (Tk)	Middle East (Asia)	Red fox	5627
+ME_9	Kerman (Ir)	Middle East (Asia)	Red fox	8047
+ME_8	Baluchistan (Ir)	Middle East (Asia)	Red fox	8050
+ME10	Kerman (Ir)	Middle East (Asia)	Red fox	8645
+ME11	Qazvin (Ir)	Middle East (Asia)	Red fox	8953
+EU2	Alto Minho (Pt)	Europe	Red fox	VV07
+EU3	Alto Minho (Pt)	Europe	Red fox	VV10
+EU4	Alto Minho (Pt)	Europe	Red fox	VV11
+SA17	Trarza (Ma)	North Africa	Rueppell's fox	131
+SA_1	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	2782
+SA18	Tagant (Ma)	North Africa	Rueppell's fox	3213
+SA20	Brakna (Ma)	North Africa	Rueppell's fox	4964
+SA_2	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	542
+SA_0	Western Desert (Eg)	North Africa	Rueppell's fox	5704
+SA19	Tagant (Ma)	North Africa	Rueppell's fox	6010
+SA22	Inchiri (Ma)	North Africa	Rueppell's fox	7367
+SA_3	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	785
+SA21	Brakna(Ma)	North Africa	Rueppell's fox	7902
+SA23	Assaba(Ma)	North Africa	Rueppell's fox	84
+SA_4	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR01
+SA_5	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR02
+SA_6	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR03
+SA_7	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR05
+SA_8	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR06
+SA_9	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR07
+SA10	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR08
+SA11	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR09
+SA12	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR10
+SA13	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR11
+SA14	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR12
+SA15	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR13
+SA16	Atlantic Sahara (Mo)	North Africa	Rueppell's fox	VR14
+A1	Arctic	Arctic	Arctic fox	arctic_fox_1
+A2	Arctic	Arctic	Arctic fox	arctic_fox_2
+A3	Arctic	Arctic	Arctic fox	arctic_fox_3
+A4	Arctic	Arctic	Arctic fox	arctic_fox_4
+A5	Arctic	Arctic	Arctic fox	arctic_fox_5
+A6	Arctic	Arctic	Arctic fox	arctic_fox_6
+A7	Arctic	Arctic	Arctic fox	arctic_fox_7
+A8	Arctic	Arctic	Arctic fox	arctic_fox_8
+A9	Arctic	Arctic	Arctic fox	arctic_fox_9
+A10	Arctic	Arctic	Arctic fox	arctic_fox_10
+A11	Arctic	Arctic	Arctic fox	arctic_fox_11
+A12	Arctic	Arctic	Arctic fox	arctic_fox_12
+A13	Arctic	Arctic	Arctic fox	arctic_fox_13
+A14	Arctic	Arctic	Arctic fox	arctic_fox_14
+A15	Arctic	Arctic	Arctic fox	arctic_fox_15
+A16	Arctic	Arctic	Arctic fox	arctic_fox_16
+A17	Arctic	Arctic	Arctic fox	arctic_fox_17
+A18	Arctic	Arctic	Arctic fox	arctic_fox_18
+A19	Arctic	Arctic	Arctic fox	arctic_fox_19
+A20	Arctic	Arctic	Arctic fox	arctic_fox_20
+A21	Arctic	Arctic	Arctic fox	arctic_fox_21
+A22	Arctic	Arctic	Arctic fox	arctic_fox_22
+A23	Arctic	Arctic	Arctic fox	arctic_fox_23
+VZ1	North Africa	North Africa	Fennec fox	VZ01
+VZ2	North Africa	North Africa	Fennec fox	VZ02
+VZ3	North Africa	North Africa	Fennec fox	VZ03
+VZ4	North Africa	North Africa	Fennec fox	VZ05
+VZ5	North Africa	North Africa	Fennec fox	VZ07
+VP1	North Africa	North Africa	Pale fox	1001
+VP2	North Africa	North Africa	Pale fox	10358
+VP3	North Africa	North Africa	Pale fox	3483
+VP4	North Africa	North Africa	Pale fox	468
+VP5	North Africa	North Africa	Pale fox	968
