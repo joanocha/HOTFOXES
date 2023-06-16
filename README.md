@@ -7,7 +7,7 @@ Rocha JL, Silva P, Santos N, Nakamura M, Afonso S, Qninba A, Boratynski Z, Sudma
 North-African fox genomes show signatures of repeated introgression and adaptation to life in deserts
 Nature Ecology & Evolution 
 ```
-[DOI](https://doi.org/10.1038/s41559-023-02094-w)
+[check paper here :)](https://doi.org/10.1038/s41559-023-02094-w)
 
 ![Cover_Rueppell2_MoniaNAKAMURA_FieldSite_CMYK](https://user-images.githubusercontent.com/42983167/229400487-79a1a5a2-8784-4090-948a-f4969bd23b64.png)
 Photo by Monia Nakamura, Western Sahara, 2018
